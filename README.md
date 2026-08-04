@@ -15,7 +15,7 @@ This account is where I keep tools, helpers, and half-organized code for making 
 
 *Building tools for comp chemists who are bad at their job like me.*
 
-<div align="center">________ **My Current Projects** ________</div>
+<div align="center"><b>________My Current Projects** ________</b></div>
 
 - *Small Molecule Drug Discovery*
 - *BRO5 Drug Discovery (especially nucleic acids)*
