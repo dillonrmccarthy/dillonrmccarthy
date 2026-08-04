@@ -5,7 +5,8 @@ I'm a computational chemist. Most of what I do lives at the intersection of mole
 
 This account is where I keep tools, helpers, and half-organized code for making comp chem workflows a little less miserable. Nothing here is fancy — it's the stuff I wish someone had handed me on day one.
 
-<div align="center">~~ **What I'm usually up to:** ~~</div>  
+<div align="center">~~ **What I'm usually up to:** ~~</div>
+
 - *Simulation, modeling, and data analysis*
 - *Automation and workflow development on HPC clusters (Slurm, Torque, AWS)*
 - *Python + bash scripting, git, reproducible-ish workflows*
@@ -15,6 +16,7 @@ This account is where I keep tools, helpers, and half-organized code for making 
 *Building tools for comp chemists who are bad at their job like me.*
 
 <div align="center">~~ **My Current Projects** ~~</div>
+
 - *Small Molecule Drug Discovery*
 - *BRO5 Drug Discovery (especially nucleic acids)*
 - *Scientific image generation and consulting for 3D models (i.e. prot/lig binding, complex workflows...)*
