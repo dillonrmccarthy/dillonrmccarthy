@@ -1,4 +1,4 @@
-landing_logo.png
+./landing_logo.png
 
 ### Hello!
 I'm a computational chemist. Most of what I do lives at the intersection of molecular modeling, scientific computing, and me quietly rewriting the same script for the fourth time.
