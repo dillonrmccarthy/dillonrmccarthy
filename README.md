@@ -22,8 +22,7 @@ This account is where I keep tools, helpers, and half-organized code for making 
 - *Scientific image generation and consulting for 3D models (i.e. prot/lig binding, complex workflows...)*
 
 ### Planned Projects
-- <p style="color: red;">This text is red.</p>
-<font color="red">This is red text.</font>
+- <dd>Test</dd>
 
 
 #### See my website here (under construction).
