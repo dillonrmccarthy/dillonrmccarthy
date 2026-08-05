@@ -23,6 +23,8 @@ This account is where I keep tools, helpers, and half-organized code for making 
 
 ### Planned Projects
 - <p style="color: red;">This text is red.</p>
+<font color="red">This is red text.</font>
+
 
 #### See my website here (under construction).
 
