@@ -22,7 +22,7 @@ This account is where I keep tools, helpers, and half-organized code for making 
 - *Scientific image generation and consulting for 3D models (i.e. prot/lig binding, complex workflows...)*
 
 ### Planned Projects
-- Test1 <dt>Test</dt> Test2
+- <span color="red">red</span>
 
 
 #### See my website here (under construction).
