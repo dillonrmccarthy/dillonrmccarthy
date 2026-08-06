@@ -66,6 +66,11 @@ $$\rightarrow$$ ***`New PI Scientific Website builder` (In Progress 2026-08)***
 - Building a website as a PI is hard, this should make it easier!
 - Initial framework is underway.
 
+<br>
+
+$$\rightarrow$$ ***`Atomic Orbital Logo Stylizer` (Not Started)***
+- attempt to re-create this site from [ Wagyx Xygaw – A Slice of Curiosity](https://asliceofcuriosity.fr/assets/atom/orbitalsApp-1M.html)
+- goal is to have cool atomic orbital logos which can be stylized for chemists. Will fit with New Pi Scientific Website Builder
 ---
 
 #### See more of my projects on my website here: (under construction).
