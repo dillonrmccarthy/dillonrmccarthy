@@ -45,7 +45,7 @@ $$\rightarrow$$ ***`Scientific Interview Agent` (In Progress 2026-07)***
 
 <br>
 
-$$\rightarrow$$ ***`MyPerfectConfig` (Not Started)***
+$$\rightarrow$$ ***`MyPerfectConfig` (In Progress)*** @MyPerfectConfig
   - Creates the perfect set of configs for your local computer (MacOS or Linux Only) for the following
     - NVIM
     - CMUX
