@@ -16,9 +16,9 @@ This account is where I keep tools, helpers, and half-organized code for making 
 - *Automation and workflow development on HPC clusters (Slurm, Torque, AWS)*
 - *Python + bash scripting, git, reproducible-ish workflows*
 - *Writing docs so that I can keep myself organized (kinda)*
-- *Hobbies: Anthing in the mountains, or just hanging out at home.*
+- *Hobbies: Anything in the mountains, or just hanging out at home.*
 
-*Building tools for comp chemists who are bad at their job like me.*
+*Building AI tools and workflows for comp chemists who are bad at their job like me.*
 
 #### *My Current Work*
 
